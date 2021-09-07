@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "66045527622",
+    "project_id": "healthhero-b771c",
+    "storage_bucket": "healthhero-b771c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66045527622:android:93c450828a418bd761ec47",
+        "android_client_info": {
+          "package_name": "org.cocolove7.health_hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66045527622-lc12p2148kbonq2he9uklikgudf0qutk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.cocolove7.health_hero",
+            "certificate_hash": "efc9d61caf133fa6eeecbec153d0d9282e4db98d"
+          }
+        },
+        {
+          "client_id": "66045527622-vssvomouf016ccg3png5nmqgg80juqjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.cocolove7.health_hero",
+            "certificate_hash": "75e13980b4c2e0f2347906fbbff46b74a043bd45"
+          }
+        },
+        {
+          "client_id": "66045527622-njqi78fssb944ibhtrd0rht0rgafn022.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KVlSaise2Vpvv-Ps3vx9242uocaDc-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66045527622-njqi78fssb944ibhtrd0rht0rgafn022.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66045527622-rv4p75sab1q4n8ju6qrib7tetuu6dgg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.cocolove7.healthhero.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

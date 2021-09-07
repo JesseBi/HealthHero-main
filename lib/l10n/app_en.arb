@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "splashWelcome": "Welcome to",
+  "@splashWelcome": {
+    "description": "The conventional greeting, followed by an AppName"
+  },
+  "appName": "Health Hero",
+  "@appName": {
+    "description": "The app name Health Hero"
+  },
+  "confirmLogoutTitle": "Alert",
+  "confirmLogoutMessage": "Are you sure to logout from {appName}?",
+  "confirmLogoutCancelBtn": "Cancel",
+  "confirmLogoutYesBtn": "Yes",
+  "skipSplashScreen": "{seconds, plural, zero{Skipping} one{Skip in 1 second} other{Skip in {seconds} seconds}}",
+  "@skipSplashScreen": {
+    "description": "Skip button text in the Splash Screen",
+    "placeholders":{
+      "seconds": {}
+    }
+  }
+}

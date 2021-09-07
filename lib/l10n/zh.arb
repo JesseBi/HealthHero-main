@@ -1,0 +1,13 @@
+{
+  "@@locale": "zh",
+  "splashWelcome": "欢迎来到",
+  "appName": "Health Hero",
+  "confirmLogoutTitle": "稍等",
+  "confirmLogoutMessage": "您确定要注销吗？",
+  "confirmLogoutCancelBtn": "取消",
+  "confirmLogoutYesBtn": "是",
+  "loginTxtEmail": "电子邮件",
+  "loginTxtPassword": "密码",
+  "loginBtnSignIn": "登入",
+  "loginBtnSignUp": "注册"
+}
